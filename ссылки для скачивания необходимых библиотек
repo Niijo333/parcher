@@ -1,0 +1,9 @@
+Вот ссылки для скачивания необходимых библиотек:
+
+Requests: https://pypi.org/project/requests/
+Beautiful Soup: https://pypi.org/project/beautifulsoup4/
+Вы можете установить их с помощью pip следующим образом:
+
+pip install requests
+pip install beautifulsoup4
+После установки этих библиотек вы сможете запустить код, который я предоставил выше. Если у вас возникнут проблемы или вам потребуется дополнительная помощь, пожалуйста, дайте знать!
